@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Computer Science student specializing in Artificial Intelligence with a strong interest in data analytics and backend development. <br>I enjoy working with data to uncover insights and build practical solutions that support decision-making. <br>My experience includes projects in machine learning, sentiment classification, and analytics dashboards using tools like Python, SQL, and Power BI. <br>Currently, I’m expanding my skills in backend technologies, databases, and APIs while applying analytical thinking to real-world problems. <br>I’m always exploring new technologies, building projects, and learning how data and software can create meaningful impact.
+I’m a Computer Science student specializing in Artificial Intelligence with a strong interest in data analytics and backend development. <br>I enjoy working with data to uncover insights and build practical solutions that support decision-making. <br>My experience includes projects in machine learning, sentiment classification, and analytics dashboards using tools like Python, SQL, and Power BI. <br>Currently, I’m expanding my skills in backend technologies, databases, and APIs while applying analytical  thinking to real-world problems. <br>I’m always exploring new technologies, building projects, and learning how data and software can create meaningful impact.
 
 
 # 💻 Tech Stack:
